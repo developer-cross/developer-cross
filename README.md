@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @developer-cross
-- 👀 I’m interested in Javascript, ReactJS, React Native, VueJS, Flutter
-- 🌱 I’m currently learning Javascript and VueJS
+- 👋 Hi, I’m Adriano, Javascript Fullstack Developer.
+- 👀 I’m interested in Javascript, ReactJS, React Native, NodeJS, VueJS, Svelte, Flutter
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Javascript ecosystem
 - 📫 How to reach me https://www.linkedin.com/in/adrianofg
 
