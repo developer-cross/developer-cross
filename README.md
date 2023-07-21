@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adriano, Javascript Fullstack Developer.
+- 👋 Hi, I’m Adriano, Fullstack Javascript Developer.
 - 👀 I’m interested in Javascript, ReactJS, React Native, NodeJS, VueJS, Svelte, Flutter
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Javascript ecosystem
